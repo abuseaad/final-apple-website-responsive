@@ -113,3 +113,10 @@ h6{
 .scroll-container > div {
   scroll-snap-align: start;
 }
+.developer{
+    text-align: center;
+    font-size: 1em;
+    color: green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
